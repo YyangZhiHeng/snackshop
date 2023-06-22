@@ -1,0 +1,4 @@
+com\itheima\b2b\commonmodule\model\User.class
+com\itheima\b2b\commonmodule\model\Userorder.class
+com\itheima\b2b\commonmodule\model\Cart.class
+com\itheima\b2b\commonmodule\model\Goods.class
