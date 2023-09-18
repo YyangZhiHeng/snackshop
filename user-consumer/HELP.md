@@ -1,5 +1,5 @@
 # Getting Started
-## 用户
+## 服务消费者
 ### Reference Documentation
 For further reference, please consider the following sections:
 
