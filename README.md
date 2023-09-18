@@ -9,3 +9,5 @@
 
 ## 注册页面
 ![注册页面](https://github.com/YyangZhiHeng/snackshop/blob/main/picture/register.png)
+
+更新中....
